@@ -29,7 +29,7 @@ const Home = () => {
         <p className='text-white max-w-[600px] mt-2'>I'm in love of turning raw data into meaningful insights.
          I'm excited to bring my skills and enthusiasm to the table (or the spreadsheet).
           I'm always on the lookout for new and exciting ways to make sense of the often chaotic world of data. 
-         <p className='font-bold text-teal-200 text-2xl'>Go on, let me show you something!</p>
+         <p className='font-bold text-teal-200 text-2xl'>Dont' Go on, let me show you something!</p>
          
          </p>
 
